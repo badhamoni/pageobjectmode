@@ -1,0 +1,7 @@
+<suite name="Regression-Suite">
+    <test name="ui-tests">
+        <classess>
+            <class name=""/>
+        </classess>
+    </test>
+</suite>
