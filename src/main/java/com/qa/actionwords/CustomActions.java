@@ -1,5 +1,7 @@
 package com.qa.actionwords;
 
+//this class is for custom action methods lijke click, entertext,get page title, etc.
+
 import org.openqa.selenium.*;
 import org.openqa.selenium.support.ui.Select;
 import static com.qa.testbase.TestBase.driver;
