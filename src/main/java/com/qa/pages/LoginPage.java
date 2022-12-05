@@ -1,5 +1,8 @@
 package com.qa.pages;
 
+//this class consists of webelements and page actions of Login page
+
+
 import com.qa.actionwords.CustomActions;
 import org.openqa.selenium.By;
 import org.openqa.selenium.support.PageFactory;
